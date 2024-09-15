@@ -1,0 +1,66 @@
+﻿@model demohelpertag.Models.ProductModel
+
+@{
+    ViewBag.Title = "Create Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container col-6">
+
+    <h1 class="text-success ps-2">Create Product :- </h1>
+
+    @Html.Hidden("StudentId","StudentId")
+    @using (Html.BeginForm("Index", "Product", FormMethod.Post))
+    {
+        <div>
+            <table class="table table-bordered">
+                <tbody>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.ProductName, htmlAttributes: new { @class = "control-label" })</td>
+                        <td>
+                            @Html.TextBoxFor(m => m.ProductName, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label" })</td>
+                        <td>
+                            @Html.TextBoxFor(m => m.Price, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.Catogary, htmlAttributes: new { @class = "control-label" })</td>
+                        <td>
+                            @Html.DropDownListFor(m => m.Catogary,new SelectList(new [] {"Select Catogary","Electric","Electronic"}),new {@class = "form-control"})
+                            @Html.ValidationMessageFor(model => model.Catogary, "", new { @class = "text-danger" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.rating, htmlAttributes: new { @class = "control-label" })</td>
+                        <td>
+                            @Html.TextBoxFor(model =>model.rating, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.rating, "", new { @class = "text-danger" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label" })</td>
+                        <td>
+                            @Html.TextAreaFor(m => m.Description,new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.Company, htmlAttributes: new { @class = "control-label" })</td>
+                        <td>@Html.DropDownListFor(m => m.Company, new SelectList(new[] { "Select Company","Company1", "Campany2" }), new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Company, "", new { @class = "text-danger" })</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            @Html.ActionLink("Submit", "ProductList", "Product","",new {@class = "btn btn-primary"})
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    }
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LOC_Employee_Details.props" />
+</Project>

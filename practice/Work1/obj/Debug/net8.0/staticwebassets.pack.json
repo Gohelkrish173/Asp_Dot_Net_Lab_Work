@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Work1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Work1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\anthony.jpg",
+      "PackagePath": "staticwebassets\\images\\anthony.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\cc-bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cc-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\graphic-design-1.jpg",
+      "PackagePath": "staticwebassets\\images\\graphic-design-1.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\graphic-design-2.jpg",
+      "PackagePath": "staticwebassets\\images\\graphic-design-2.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\graphic-design-3.jpg",
+      "PackagePath": "staticwebassets\\images\\graphic-design-3.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\graphic-design-4.jpg",
+      "PackagePath": "staticwebassets\\images\\graphic-design-4.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\photography-1.jpg",
+      "PackagePath": "staticwebassets\\images\\photography-1.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\photography-2.jpg",
+      "PackagePath": "staticwebassets\\images\\photography-2.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\photography-3.jpg",
+      "PackagePath": "staticwebassets\\images\\photography-3.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\photography-4.jpg",
+      "PackagePath": "staticwebassets\\images\\photography-4.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\project-1.jpg",
+      "PackagePath": "staticwebassets\\images\\project-1.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\project-2.jpg",
+      "PackagePath": "staticwebassets\\images\\project-2.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\project-3.jpg",
+      "PackagePath": "staticwebassets\\images\\project-3.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\project-4.jpg",
+      "PackagePath": "staticwebassets\\images\\project-4.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\reference-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\reference-image-1.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\reference-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\reference-image-2.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\reference-image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\reference-image-3.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\images\\staticmap.png",
+      "PackagePath": "staticwebassets\\images\\staticmap.png"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\now-ui-kit.js",
+      "PackagePath": "staticwebassets\\js\\now-ui-kit.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\plugins\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\plugins\\jquery.sharrre.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.sharrre.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\practice\\Work1\\wwwroot\\scripts\\main.js",
+      "PackagePath": "staticwebassets\\scripts\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Work1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Work1.props",
+      "PackagePath": "build\\Work1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Work1.props",
+      "PackagePath": "buildMultiTargeting\\Work1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Work1.props",
+      "PackagePath": "buildTransitive\\Work1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

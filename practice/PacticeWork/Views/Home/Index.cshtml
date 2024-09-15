@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div>@ViewBag.City</div>
+    <p><h1>@ViewBag.Name</h1></p>
+    @{
+        foreach(var stu in ViewBag.stu)
+        {
+            <p><h1>@stu</h1></p>
+            <div>@TempData["data"]</div>
+        }
+    }
+</div>

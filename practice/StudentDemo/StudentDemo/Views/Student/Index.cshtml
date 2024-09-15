@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Student Detail page";
+}
+@model StudentDemo.Models.StudentModel
+
+<form class="row g-3">
+    <div class="col-12">
+        <label for="inputNanme4" class="form-label">Student Name</label>
+        <input asp-for="StudentName" class="form-control" id="inputNanme4">
+        <span asp-validation-for="StudentName" class="text-denger"></span>
+    </div>
+    <div class="col-12">
+        <label for="inputEmail4" class="form-label">Enrollment No</label>
+        <input asp-for="enrollmentNo" class="form-control" id="inputEmail4">
+        <span asp-validation-for="enrollmentNo"></span>
+    </div>
+    <div class="col-12">
+        <label for="inputPassword4" class="form-label">Password</label>
+        <input asp-for="password" class="form-control" id="inputPassword4">
+        <span asp-validation-for="enrollmentNo"></span>
+    </div>
+    <div class="col-12">
+        <label for="inputAddress" class="form-label">Contact</label>
+        <input asp-for="contactNo" type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+        <span asp-validation-for="enrollmentNo"></span>
+    </div>
+    <div class="col-12">
+        <label for="inputAddress" class="form-label">EmailInstitute</label>
+        <input asp-for="EmailInstitute" type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+        <span asp-validation-for="enrollmentNo"></span>
+    </div>
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="reset" class="btn btn-secondary">Reset</button>
+    </div>
+</form><!-- Vertical Form -->
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

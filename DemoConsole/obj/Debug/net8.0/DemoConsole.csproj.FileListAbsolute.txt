@@ -1,0 +1,15 @@
+C:\Users\Krish\source\repos\DemoConsole\bin\Debug\net8.0\DemoConsole.exe
+C:\Users\Krish\source\repos\DemoConsole\bin\Debug\net8.0\DemoConsole.deps.json
+C:\Users\Krish\source\repos\DemoConsole\bin\Debug\net8.0\DemoConsole.runtimeconfig.json
+C:\Users\Krish\source\repos\DemoConsole\bin\Debug\net8.0\DemoConsole.dll
+C:\Users\Krish\source\repos\DemoConsole\bin\Debug\net8.0\DemoConsole.pdb
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.AssemblyInfoInputs.cache
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.AssemblyInfo.cs
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.sourcelink.json
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.dll
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\refint\DemoConsole.dll
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.pdb
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\DemoConsole.genruntimeconfig.cache
+C:\Users\Krish\source\repos\DemoConsole\obj\Debug\net8.0\ref\DemoConsole.dll

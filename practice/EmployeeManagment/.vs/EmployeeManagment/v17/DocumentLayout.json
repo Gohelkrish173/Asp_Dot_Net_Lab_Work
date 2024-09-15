@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College Work\\.Net\\practice\\EmployeeManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69A3ECD-8EFF-4252-A302-D2D3A27FC50B}|EmployeeManagment.csproj|d:\\college work\\.net\\practice\\employeemanagment\\views\\project\\projectform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69A3ECD-8EFF-4252-A302-D2D3A27FC50B}|EmployeeManagment.csproj|solutionrelative:views\\project\\projectform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectForm.cshtml",
+              "DocumentMoniker": "D:\\College Work\\.Net\\practice\\EmployeeManagment\\Views\\Project\\ProjectForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Project\\ProjectForm.cshtml",
+              "ToolTip": "D:\\College Work\\.Net\\practice\\EmployeeManagment\\Views\\Project\\ProjectForm.cshtml",
+              "RelativeToolTip": "Views\\Project\\ProjectForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:31:27.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

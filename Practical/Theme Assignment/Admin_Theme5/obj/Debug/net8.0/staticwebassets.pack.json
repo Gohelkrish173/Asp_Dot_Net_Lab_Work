@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Admin_Theme5.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Admin_Theme5.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\css\\ready.css",
+      "PackagePath": "staticwebassets\\css\\ready.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\css\\ready.css.map",
+      "PackagePath": "staticwebassets\\css\\ready.css.map"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\css\\ready.min.css",
+      "PackagePath": "staticwebassets\\css\\ready.min.css"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\img\\menu.png",
+      "PackagePath": "staticwebassets\\img\\menu.png"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\img\\menu2.png",
+      "PackagePath": "staticwebassets\\img\\menu2.png"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\img\\profile.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\README.txt",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\README.txt"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\france_departments.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\usa_states.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\ready.js",
+      "PackagePath": "staticwebassets\\js\\ready.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\js\\ready.min.js",
+      "PackagePath": "staticwebassets\\js\\ready.min.js"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready.scss",
+      "PackagePath": "staticwebassets\\sass\\ready.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_background.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_background.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_components.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_components.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_layouts.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_line-awesome.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_line-awesome.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_outlinefocus.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_outlinefocus.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_plugins.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_plugins.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_typography.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_typography.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\_variables.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_alerts.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_charts.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_charts.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_inputs.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_maps.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_maps.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_modals.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_modals.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_navbars.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_navpills.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_navpills.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_navsearch.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_navsearch.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_paginations.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_paginations.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_sliders.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_sliders.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\plugins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\plugins\\_chartist.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\plugins\\_jqueryscrollbar.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\plugins\\_jqueryscrollbar.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\plugins\\_jqueryui.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\plugins\\_jqueryui.scss"
+    },
+    {
+      "Id": "D:\\College Work\\.Net\\Practical\\Theme Assignment\\Admin_Theme5\\wwwroot\\sass\\ready\\plugins\\_toggle.scss",
+      "PackagePath": "staticwebassets\\sass\\ready\\plugins\\_toggle.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Admin_Theme5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Admin_Theme5.props",
+      "PackagePath": "build\\Admin_Theme5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Admin_Theme5.props",
+      "PackagePath": "buildMultiTargeting\\Admin_Theme5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Admin_Theme5.props",
+      "PackagePath": "buildTransitive\\Admin_Theme5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

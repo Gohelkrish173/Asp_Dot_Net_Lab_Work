@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Department Page";
+}
+@using System.Data;
+@model DataTable;
+
+<table>
+    <thead>
+        <tr>
+            <th>DepartentID</th>
+            <th>DepartentName</th>
+            <th>DepartentCode</th>
+            <th>DesignationID</th>
+            <th>CreationDate</th>
+            <th>ModificationDate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(DataRow DR in Model.Rows)
+        {
+            <tr>
+                <td>@DR["DepartmentID"]</td>
+                <td>@DR["DepartmentName"]</td>
+                <td>@DR["DepartmentCode"]</td>
+                <td>@DR["DesignationID"]</td>
+                <td>@DR["CreationDate"]</td>
+                <td>@DR["ModificationDate"]</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Designation Details";
+}
+@using System.Data
+@model DataTable
+
+<table>
+    <thead>
+        <tr>
+            <th>DesignationId</th>
+            <th>DesignationName</th>
+            <th>DesignationCode</th>
+            <th>CreationDate</th>
+            <th>ModificationDate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (DataRow dr in Model.Rows)
+        {
+            <tr>
+                <td>@dr["DesignationId"]</td>
+                <td>@dr["DesignationName"]</td>
+                <td>@dr["DesignationCode"]</td>
+                <td>@dr["CreationDate"]</td>
+                <td>@dr["ModificationDate"]</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Admin_Theme5.props" />
+</Project>

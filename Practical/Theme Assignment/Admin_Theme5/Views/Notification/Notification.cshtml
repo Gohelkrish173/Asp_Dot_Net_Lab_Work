@@ -1,0 +1,198 @@
+﻿@{
+    ViewData["Title"] = "Notification page";
+}
+
+<div class="sidebar">
+	<div class="scrollbar-inner sidebar-wrapper">
+		<div class="user">
+			<div class="photo">
+				<img src="assets/img/profile.jpg">
+			</div>
+			<div class="info">
+				<a class="" data-toggle="collapse" href="#collapseExample" aria-expanded="true">
+					<span>
+						Hizrian
+						<span class="user-level">Administrator</span>
+						<span class="caret"></span>
+					</span>
+				</a>
+				<div class="clearfix"></div>
+
+				<div class="collapse in" id="collapseExample" aria-expanded="true" style="">
+					<ul class="nav">
+						<li>
+							<a href="#profile">
+								<span class="link-collapse">My Profile</span>
+							</a>
+						</li>
+						<li>
+							<a href="#edit">
+								<span class="link-collapse">Edit Profile</span>
+							</a>
+						</li>
+						<li>
+							<a href="#settings">
+								<span class="link-collapse">Settings</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<ul class="nav">
+			<li class="nav-item">
+				<a href="~/Home/Index">
+					<i class="la la-dashboard"></i>
+					<p>Dashboard</p>
+					<span class="badge badge-count">5</span>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a href="~/Component/Component">
+					<i class="la la-table"></i>
+					<p>Components</p>
+					<span class="badge badge-count">14</span>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a href="~/Form/Form">
+					<i class="la la-keyboard-o"></i>
+					<p>Forms</p>
+					<span class="badge badge-count">50</span>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a href="~/Table/Index">
+					<i class="la la-th"></i>
+					<p>Tables</p>
+					<span class="badge badge-count">6</span>
+				</a>
+			</li>
+			<li class="nav-item active">
+				<a href="~/Notification/Notification">
+					<i class="la la-bell"></i>
+					<p>Notifications</p>
+					<span class="badge badge-success">3</span>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a href="~/Typography/Index">
+					<i class="la la-font"></i>
+					<p>Typography</p>
+					<span class="badge badge-danger">25</span>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a href="~/Icon/Icons">
+					<i class="la la-fonticons"></i>
+					<p>Icons</p>
+				</a>
+			</li>
+			<li class="nav-item update-pro">
+				<button data-toggle="modal" data-target="#modalUpdate">
+					<i class="la la-hand-pointer-o"></i>
+					<p>Update To Pro</p>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="main-panel">
+	<div class="content">
+		<div class="container-fluid">
+			<h4 class="page-title">Notifications</h4>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Bootstrap Notify</div>
+							<div class="card-category">Turn standard bootstrap alerts into "growl" like notifications from <a class="link" href="http://bootstrap-notify.remabledesigns.com/">Bootstrap Notify</a></div>
+						</div>
+						<div class="card-body">
+							<div class="form">
+								<div class="form-group from-show-notify row">
+									<div class="col-lg-3 col-md-3 col-sm-12 text-right">
+										<label>Placement :</label>
+									</div>
+									<div class="col-lg-4 col-md-9 col-sm-12">
+										<select class="form-control input-fixed" id="notify_placement_from">
+											<option value="top">Top</option>
+											<option value="bottom">Bottom</option>
+										</select>
+										<select class="form-control input-fixed" id="notify_placement_align">
+											<option value="left">Left</option>
+											<option value="right" selected="">Right</option>
+											<option value="center">Center</option>
+										</select>
+									</div>
+								</div>
+								<div class="form-group from-show-notify row">
+									<div class="col-lg-3 col-md-3 col-sm-12 text-right">
+										<label>State :</label>
+									</div>
+									<div class="col-lg-4 col-md-9 col-sm-12">
+										<select class="form-control input-fixed" id="notify_state">
+											<option value="primary">Primary</option>
+											<option value="info">Info</option>
+											<option value="success">Success</option>
+											<option value="warning">Warning</option>
+											<option value="danger">Danger</option>
+										</select>
+									</div>
+								</div>
+								<div class="form-group from-show-notify row">
+									<div class="col-lg-3 col-md-3 col-sm-12 text-right">
+										<label>Style :</label>
+									</div>
+									<div class="col-lg-4 col-md-9 col-sm-12">
+										<select class="form-control input-fixed" id="notify_style">
+											<option value="plain">Plain</option>
+											<option value="withicon">With Icon</option>
+										</select>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card-footer">
+							<div class="form">
+								<div class="form-group from-show-notify row">
+									<div class="col-lg-3 col-md-3 col-sm-12">
+									</div>
+									<div class="col-lg-4 col-md-9 col-sm-12">
+										<button id="displayNotif" class="btn btn-success">Display</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer class="footer">
+		<div class="container-fluid">
+			<nav class="pull-left">
+				<ul class="nav">
+					<li class="nav-item">
+						<a class="nav-link" href="http://www.themekita.com">
+							ThemeKita
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">
+							Help
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="https://themewagon.com/license/#free-item">
+							Licenses
+						</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="copyright ml-auto">
+				2018, made with <i class="la la-heart heart text-danger"></i> by <a href="http://www.themekita.com">ThemeKita</a>
+			</div>
+		</div>
+	</footer>
+</div>

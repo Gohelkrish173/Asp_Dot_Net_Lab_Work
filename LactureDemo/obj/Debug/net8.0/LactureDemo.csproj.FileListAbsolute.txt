@@ -1,0 +1,15 @@
+C:\Users\Krish\source\repos\LactureDemo\bin\Debug\net8.0\LactureDemo.exe
+C:\Users\Krish\source\repos\LactureDemo\bin\Debug\net8.0\LactureDemo.deps.json
+C:\Users\Krish\source\repos\LactureDemo\bin\Debug\net8.0\LactureDemo.runtimeconfig.json
+C:\Users\Krish\source\repos\LactureDemo\bin\Debug\net8.0\LactureDemo.dll
+C:\Users\Krish\source\repos\LactureDemo\bin\Debug\net8.0\LactureDemo.pdb
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.AssemblyInfoInputs.cache
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.AssemblyInfo.cs
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.csproj.CoreCompileInputs.cache
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.sourcelink.json
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.dll
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\refint\LactureDemo.dll
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.pdb
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\LactureDemo.genruntimeconfig.cache
+C:\Users\Krish\source\repos\LactureDemo\obj\Debug\net8.0\ref\LactureDemo.dll

@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Admin_Theme5
+build_property.RootNamespace = Admin_Theme5
+build_property.ProjectDir = D:\College Work\.Net\Practical\Theme Assignment\Admin_Theme5\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\College Work\.Net\Practical\Theme Assignment\Admin_Theme5
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Component/Component.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50XENvbXBvbmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Form/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Home/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Icon/Icons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvblxJY29ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Notification/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uXE5vdGlmaWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Table/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVcVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Typography/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwb2dyYXBoeVxUeXBvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College Work/.Net/Practical/Theme Assignment/Admin_Theme5/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z7jx6sgejm
